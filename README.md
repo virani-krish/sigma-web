@@ -1,2 +1,2 @@
 # sigma-web
-i build this github for demo purpose.
+i build this github for demo purpose only.
